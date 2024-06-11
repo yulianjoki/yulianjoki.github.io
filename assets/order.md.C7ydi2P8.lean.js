@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as r,a1 as s}from"./chunks/framework.DCKU21so.js";const h=JSON.parse('{"title":"Order","description":"","frontmatter":{"outline":"deep"},"headers":[],"relativePath":"order.md","filePath":"order.md"}'),t={name:"order.md"},o=s("",7),d=[o];function i(n,l,m,c,_,p){return r(),e("div",null,d)}const k=a(t,[["render",i]]);export{h as __pageData,k as default};
